@@ -30,7 +30,7 @@ int exec(int op, int a, int b) {
 		result = abs(a);
 		break;
 	case 6:
-		pow(a, b);
+		result = pow(a, b);
 		break;
 	case 7:
 	case 13:
