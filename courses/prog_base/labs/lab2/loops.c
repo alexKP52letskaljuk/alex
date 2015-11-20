@@ -1,8 +1,6 @@
-
-
-#include <math.h> 
-#include <stdio.h> 
-#include <stdlib.h> 
+#include <math.h>
+#include <stdio.h>
+#include <stdlib.h>
 double calc(int, int);
 int main()
 {
@@ -10,14 +8,13 @@ int main()
 	double result;
 	result = calc(nval, mval);
 	printf("%lf", result);
-
 }
 double calc(int n, int m)
 
 {
 
-	double i , j;
-	double a, s = 0, r = 0;
+	double i, j;
+	double a, s, r;
 	for (i = 1; i <= n; i++)
 	{
 		for (j = 1; j <= m; j++)
@@ -31,8 +28,7 @@ double calc(int n, int m)
 		}
 		r = r + s;
 	}
-	return r;
-
+	return s;
 }
 
 
