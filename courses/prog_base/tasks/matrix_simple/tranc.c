@@ -31,7 +31,7 @@ void rotateCW270(int mat[4][4])
     {
         for(j=0;j<4;j++)
         {
-            mat[i][j]=copymat[3-j][j];
+            mat[3-j][i]=copymat[i][j];
 
         }
         printf("\n");
