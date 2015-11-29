@@ -37,7 +37,6 @@
  				 break;
  			};
 
-
             if (f != 4 && a[current_pos][f] > 0)
  		{
  			res[j] = a[current_pos][f];
