@@ -9,7 +9,7 @@ int  a;//chuslo kompozuzii
 };
 int count(int size, struct PlayList arr[size]);
 void change(struct PlayList * pVar, const char * newValue);
-
+void print(struct PlayList * pVar);
 int main(){
 struct PlayList b[20];
 int i;
