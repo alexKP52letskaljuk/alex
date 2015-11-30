@@ -6,6 +6,7 @@
 struct PlayList{
 char name [20];
 int  a;//chuslo kompozuzii
+float time;
 };
 int count(int size, struct PlayList arr[size]);
 void change(struct PlayList * pVar, const char * newValue);
@@ -19,6 +20,8 @@ printf("enter name\n");
 gets(b[i].name);
 printf("enter number\n");
 scanf("%i", &b[i].a);
+printf("Vedit chas aydiozapusy: ");
+scanf("%lf", &b[i].time);
 }
 fflush(stdin);
 int val;
