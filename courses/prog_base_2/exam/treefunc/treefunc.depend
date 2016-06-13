@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1465812087 source:c:\test\treefunc\checktree.c
+	"checktree.h"
+
+1465812087 c:\test\treefunc\checktree.h
+
+1465812428 source:c:\test\treefunc\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1465812468 source:c:\test\treefunc\tests\checktree_tests.c
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<setjmp.h>
+	<cmocka.h>
+	"tests.h"
+	"../checktree.h"
+
+1465812224 source:c:\test\treefunc\tests\totaltests.c
+	"tests.h"
+
+1465812283 c:\test\treefunc\tests\tests.h
+
+1426175038 c:\test\treefunc\cmocka\include\cmocka.h
+
+1465813558 source:c:\users\admin\desktop\treefunc\checktree.c
+	"checktree.h"
+	<string.h>
+
+1465812086 c:\users\admin\desktop\treefunc\checktree.h
+
+1465813800 source:c:\users\admin\desktop\treefunc\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tests/tests.h"
+
+1465812282 c:\users\admin\desktop\treefunc\tests\tests.h
+
+1465813953 source:c:\users\admin\desktop\treefunc\tests\checktree_tests.c
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<setjmp.h>
+	<cmocka.h>
+	"tests.h"
+	"../checktree.h"
+
+1426171438 c:\users\admin\desktop\treefunc\cmocka\include\cmocka.h
+
