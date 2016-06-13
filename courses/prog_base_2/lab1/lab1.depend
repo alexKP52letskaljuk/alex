@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1465222259 source:d:\КПІ\ОП\2Семестр\Лаб роб\lab1\aud.c
+	"aud.h"
+	"korpus.h"
+
+1459049690 d:\КПІ\ОП\2Семестр\Лаб роб\lab1\aud.h
+
+1464819091 d:\КПІ\ОП\2Семестр\Лаб роб\lab1\korpus.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<time.h>
+	"aud.h"
+
+1464820301 source:d:\КПІ\ОП\2Семестр\Лаб роб\lab1\korpus.c
+	"aud.h"
+	"korpus.h"
+
+1465218630 source:d:\КПІ\ОП\2Семестр\Лаб роб\lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<setjmp.h>
+	<cmocka.h>
+	"korpus.h"
+	"aud.h"
+
+1465858607 source:c:\users\admin\desktop\lab1\aud.c
+	"aud.h"
+	"korpus.h"
+
+1465853133 c:\users\admin\desktop\lab1\aud.h
+
+1465858370 c:\users\admin\desktop\lab1\korpus.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<time.h>
+	"aud.h"
+
+1465859250 source:c:\users\admin\desktop\lab1\korpus.c
+	"aud.h"
+	"korpus.h"
+
+1465859651 source:c:\users\admin\desktop\lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<setjmp.h>
+	<cmocka.h>
+	"korpus.h"
+	"aud.h"
+
